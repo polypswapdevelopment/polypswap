@@ -12,6 +12,33 @@ Polypswap is a decentralized finance protocol that is used to exchange cryptocur
 The Polypswap Team is working tirelessly to ensure you have wonderful experience while exploring the ecosystem.
 
 
+
+PolyPswaP Ecosystem
+
+Cross-chain swaps from wallet to wallet
+
+
+CONTENTS
+
+
+1. INTRODUCTION .............................. ..................... 2
+2. POLYPSWAP ....................................................... 3
+3. KEY TECHNOLOGIES AND ALGORITHMS? ................................ 5
+4. FINANCIAL INCENTIVES............................................. 7
+5. POLYPSWAP LIQUIDITY POOLS TYPES ................................. 8
+5.1.1. Type One - Liquidity Pool: .................................. 8
+5.1.2. Type Two - Liquidity Pool: .................................. 8
+5.1.3. Type Three - Liquidity Pool:................................. 8
+6. POLYPSWAP LIQUIDITY POOL REQUIREMENTS ........................... 9
+7. TRADING STRATEGIES .............................................. 10
+7.1.1. Long and Short positions .................................... 10
+7.1.2. Poly Strategy................................................ 10
+7.1.3. Portfolio Rebalancing ....................................... 10
+8. PLANNED UPDATES ................................................. 11
+9. CONCLUSION ...................................................... 12
+10. REFERENCES ..................................................... 13
+
+
 1. INTRODUCTION
 The very aim of digital blockchain assets and cryptocurrencies is to achieve
 a truly open and free financial system accessible for everyone. Such system
